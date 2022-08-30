@@ -1,0 +1,12 @@
+
+
+.nav-bar{
+    display: flex;
+    text-decoration: none;
+
+}
+.nav-pills{
+    display: flex;
+    padding-left: 1rem;
+    list-style: none
+}
